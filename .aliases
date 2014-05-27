@@ -152,3 +152,12 @@ alias reload="exec $SHELL -l"
 
 # Faster npm for europeans
 command -v npm > /dev/null && alias npme="npm --registry http://registry.npmjs.eu"
+
+alias vi='mvim -v' 
+alias gvim='mvim --remote-silent'
+alias v='mvim --remote-silent'
+alias vim='mvim -v'
+
+alias wget="curl -O"
+alias e="emacsclient -t"
+alias ec="emacsclient -c"

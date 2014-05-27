@@ -1,0 +1,19 @@
+let g:spf13_bundle_groups=['general', 'neocomplcache', 'programming',  'javascript', 'html', 'misc', 'scala']
+
+Bundle 'guns/vim-clojure-static'
+Bundle 'tpope/vim-classpath'
+Bundle 'kien/rainbow_parentheses.vim'
+
+
+Bundle 'tpope/vim-fireplace'
+
+Bundle 'tfnico/vim-gradle'
+Bundle 'troydm/pb.vim'
+"Bundle 'adragomir/javacomplete'
+
+""Bundle 'pwicks86/eclim-for-vundle'
+""Bundle 'youjumpiwatch/vim-neoeclim'
+""Bundle 'benmills/vimux'
+Bundle 'xolox/vim-misc'
+Bundle 'xolox/vim-easytags'
+

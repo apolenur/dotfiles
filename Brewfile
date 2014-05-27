@@ -61,5 +61,10 @@ install zopfli
 
 install homebrew/versions/lua52
 
+#alexi
+install gradle
+install tmux
+install lesspipe
+
 # Remove outdated versions from the cellar
 cleanup

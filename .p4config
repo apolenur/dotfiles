@@ -1,0 +1,5 @@
+P4PORT=perforcePPM.eur.ad.sag:1667
+P4USER=alpo
+P4PASSWD=g0pr3st0
+P4EDITOR=vim
+P4CLIENT=git-p4
