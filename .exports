@@ -27,5 +27,5 @@ export GREP_OPTIONS="--color=auto"
 export HOMEBREW_CASK_OPTS="--appdir=/Applications"
 
 #Perforce config
-export P4CONFIG=~/.p4config
+export P4CONFIG=.p4config
 

@@ -16,4 +16,5 @@ Bundle 'troydm/pb.vim'
 ""Bundle 'benmills/vimux'
 Bundle 'xolox/vim-misc'
 Bundle 'xolox/vim-easytags'
+Bundle 'jpo/vim-railscasts-theme'
 

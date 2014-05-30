@@ -1,5 +1,3 @@
-let g:solarized_termcolors=16
-color solarized
 
 au Syntax * RainbowParenthesesToggle
 au Syntax * RainbowParenthesesLoadRound
@@ -52,3 +50,7 @@ map ,fb :CtrlPBuffer<cr>
 map ,ff :CtrlP .<cr>
 map ,fr :CtrlP<cr>
 map ,fm :CtrlPMixed<cr>
+
+nnoremap ,pa :!p4 add %:
+nnoremap ,pe :!p4 edit %:
+nnoremap ,pd :!p4 diff %
