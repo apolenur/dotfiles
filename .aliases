@@ -11,7 +11,8 @@ alias d="cd ~/Documents/Dropbox"
 alias dl="cd ~/Downloads"
 alias dt="cd ~/Desktop"
 alias p="cd ~/projects"
-alias g="git"
+alias g="gradle"
+alias go="gradle --offline"
 alias h="history"
 alias j="jobs"
 
@@ -159,5 +160,8 @@ alias v='mvim --remote-silent'
 alias vim='mvim -v'
 
 alias wget="curl -O"
-alias e="emacsclient -t"
-alias ec="emacsclient -c"
+
+alias es='emacs --daemon'
+alias ec='emacsclient -c -n'
+alias e='emacsclient  -n'
+#export EDITOR='/Applications/Emacs.app/Contents/MacOS/bin/emacsclient -c'

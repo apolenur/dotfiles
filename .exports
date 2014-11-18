@@ -29,3 +29,6 @@ export HOMEBREW_CASK_OPTS="--appdir=/Applications"
 #Perforce config
 export P4CONFIG=.p4config
 
+export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.7.0_55.jdk/Contents/Home
+#export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.8.0_20.jdk/Contents/Home
+
