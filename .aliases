@@ -164,4 +164,7 @@ alias wget="curl -O"
 alias es='emacs --daemon'
 alias ec='emacsclient -c -n'
 alias e='emacsclient  -n'
+
+alias d='docker'
+alias vag='vagrant'
 #export EDITOR='/Applications/Emacs.app/Contents/MacOS/bin/emacsclient -c'

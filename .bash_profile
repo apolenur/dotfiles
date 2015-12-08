@@ -54,5 +54,8 @@ source ~/bin/z.sh
 [ -x /usr/bin/lesspipe ] && eval "$(lesspipe)"
 
 
-#setjdk 1.7
+#setjdk 1.8
+
+
+
 
