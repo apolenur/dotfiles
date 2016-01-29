@@ -32,5 +32,13 @@ export P4CONFIG=.p4config
 #export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.7.0_55.jdk/Contents/Home
 export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.8.0_20.jdk/Contents/Home
 
-export DOCKER_HOST="tcp://docker.local:2375"
+#export DOCKER_HOST="tcp://docker.local:2375"
+
+#FABRIC8
+#
+export KUBERNETES_MASTER=https://172.28.128.4:8443
+export KUBERNETES_DOMAIN=vagrant.f8
+export DOCKER_HOST=tcp://vagrant.f8:2375
+
+
 
